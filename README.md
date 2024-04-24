@@ -1,9 +1,9 @@
-# Pig-E.-Bank-Churn-Customer-Prediction
+# Pig E. Bank: Churn Customer Prediction
 ## Overview
-This repository contains some examples of Python scripts that I used to predict churn customer of Pig E. Bank. 
+This repository contains some examples of Python scripts that I used to predict churn customers of Pig E. Bank. 
 
 ## Objective
-Assessed the reasons customers are leaving the bank, and make prediction on who might leave so that better customer retention measures can be implemented.
+Assessed the reasons customers are leaving the bank, and make predictions on who might leave so that better customer retention measures can be implemented.
 
 Key questions to be answered:
 1. Who are our customers?
